@@ -1,0 +1,14 @@
+# a34xdxx-user 14 UP1A.231005.007 A346EXXU8CXG8 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: a34x
+- flavor: a34xdxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A346EXXU8CXG8
+- tags: release-keys
+- fingerprint: samsung/a34xdxx/a34x:14/UP1A.231005.007/A346EXXU8CXG8:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a34xdxx-user-14-UP1A.231005.007-A346EXXU8CXG8-release-keys
+- repo: samsung_a34x_dump
